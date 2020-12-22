@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+La bave de la grenouille n'atteind jamais la blanche colombe!
 Use the left arrow to go back!
